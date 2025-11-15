@@ -5,6 +5,6 @@
 </head>
 <body>
 <p>hello gusy!!</p>
-<p>my name is Nazwa hikmah amalia</p>
+   my name is Nazwa hikmah amalia
 </body>
 </html>
