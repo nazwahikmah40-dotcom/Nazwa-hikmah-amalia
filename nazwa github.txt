@@ -1,0 +1,10 @@
+<DOCTYPE html!>
+<html>
+<head>
+<title>about me.</title>
+</head>
+<body>
+<p>hello gusy!!</p>
+<p>my name is Nazwa hikmah amalia</p>
+</body>
+</html>
